@@ -1,2 +1,2 @@
 # this file defines the pip packages neede by this application
-flask==2.0.2
+flask==3.0.2
